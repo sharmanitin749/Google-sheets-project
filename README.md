@@ -1,4 +1,4 @@
-# Google-sheets-project
+# MS Excel-project
 
 Title: Zomato Restaurant Analysis: Uncovering Insights for Informed Decision-Making
 
